@@ -5,12 +5,12 @@
 class Over {
     int cel(int x, int y) {
         int z = x + y;
-        System.out.println("result print here" + z);
+        System.out.println("result print here " + z);
         return 0;
     }
 
     int cel(int z) {
-        System.out.println("result print here" + z);
+        System.out.println("result print here " + z);
         return 0;
     }
 }
