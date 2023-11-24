@@ -3,6 +3,7 @@
 Please follow the steps provided in the link.
 <br >
 
+[![Github Badge](https://img.shields.io/badge/Githb-1877F2?style=for-the-badge&logo=githhub&logoColor=white)]((https://code.visualstudio.com/docs/languages/java))
 <button>
 <a herf="https://code.visualstudio.com/docs/languages/java"> VS CODE DOC</a>
 </button>
