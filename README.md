@@ -2,6 +2,7 @@
 <h3>How to install Java in your VS code Studio</h3>
 Please follow the steps provided in the link.
 <a herf="https://code.visualstudio.com/docs/languages/java"> VS CODE DOC</a>
+<a href="(https://code.visualstudio.com/docs/languages/java)">Visit W3Schools.com!</a>
 
 Step:1
 Click on the install button.
