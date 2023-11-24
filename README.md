@@ -1,10 +1,19 @@
 # Java_SPI_Task
-<h3>How to install Java in you VS code Studio</h3>
-Step:1
-Step:2
+<h3>How to install Java in your VS code Studio</h3>
+Please follow the steps provided in the link.
 
-Here is a place i upload my all of code. That's code practices in my daily learning
-There are multiple Java code files in that repository.
+
+Step:1
+Click on the install button.
+![image](https://github.com/Soum-ik/Java_SPI_Task/assets/110479389/f6b74bb0-f8ef-408e-b1f8-8788131bfbe5)
+
+Step:2
+click on button
+![image](https://github.com/Soum-ik/Java_SPI_Task/assets/110479389/f2f9d347-a538-4739-b944-b628d8d528bf)
+
+
+
+Here is where I upload all of my code practices from daily learning, including multiple Java files.
 
 
 
