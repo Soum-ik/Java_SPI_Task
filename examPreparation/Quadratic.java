@@ -11,7 +11,7 @@ public class Quadratic {
         int b = sc.nextInt();
         System.out.println("enter the of value c ");
         int c = sc.nextInt();
-        
+
         int d = (b * b - 4 * a * c);
         if (d > 0) {
             x1 = -b + Math.sqrt(d) / 2 * a;
@@ -20,7 +20,7 @@ public class Quadratic {
         } else if (d == 0) {
             x1 = x2 = -b / 2 * a;
             System.out.println("root are equal" + x1);
-        } else {    
+        } else {
             System.out.println("root are not possiable");
         }
     }
