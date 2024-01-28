@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PasswordGeneratorGUI",
+      "request": "launch",
+      "mainClass": "PasswordGeneratorGUI",
+      "projectName": "5th_semester_623c7321"
+    },
+    {
+      "type": "java",
       "name": "button",
       "request": "launch",
       "mainClass": "button",
