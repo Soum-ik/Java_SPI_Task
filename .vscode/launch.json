@@ -1,0 +1,29 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DigitalClock",
+      "request": "launch",
+      "mainClass": "DigitalClock",
+      "projectName": "java_a7cf075c"
+    },
+    {
+      "type": "java",
+      "name": "Digital_Clock",
+      "request": "launch",
+      "mainClass": "Digital_Clock",
+      "projectName": "java_a7cf075c"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Program",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\Morden js\\mod.js"
+    }
+  ]
+}
