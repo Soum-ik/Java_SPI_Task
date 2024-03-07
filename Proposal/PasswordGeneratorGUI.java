@@ -41,7 +41,7 @@ public class PasswordGeneratorGUI extends JFrame {
     }
 
     private void generatePassword() {
-        int length = 12; // Change the length as needed
+        int length = 50; // Change the length as needed
         String password = generateRandomPassword(length);
         passwordField.setText(password);
     }
